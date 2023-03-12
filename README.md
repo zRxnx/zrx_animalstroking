@@ -4,6 +4,7 @@ This is a simple resource to stroke animals
 
 <b>Features:</b>
 - Stroke animals
+- Update checker
 - 0.0 ms on idle
 - 0.0 ms while in use
 
