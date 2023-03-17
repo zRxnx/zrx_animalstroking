@@ -1,9 +1,10 @@
 # zRxnx's Stroking System
 
-This is a simple resource to stroke animals
+This is a simple resource to stroke animals for fivem
 
 <b>Features:</b>
 - Stroke animals
+- Target based
 - Update checker
 - 0.0 ms on idle
 - 0.0 ms while in use

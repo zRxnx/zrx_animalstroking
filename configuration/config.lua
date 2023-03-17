@@ -1,8 +1,8 @@
 local seconds, minutes = 1000, 60000
 Config = {}
 
-Config.Icon = ''
-Config.Models = {
+Config.Icon = '' --| Target icon
+Config.Models = { --| Peds to stroke
     'a_c_cat_01',
     'a_c_chop',
     'a_c_husky',
@@ -15,7 +15,7 @@ Config.Models = {
 }
 
 Config.Anim = {
-    time = 5 * seconds,
-    lib = 'machinic_loop_mechandplayer',
-    dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@'
+    time = 5 * seconds, --| Animation time
+    lib = 'machinic_loop_mechandplayer', --| Animation lib
+    dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@' --| Animation dict
 }

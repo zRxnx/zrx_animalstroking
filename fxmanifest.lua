@@ -4,8 +4,8 @@ lua54 'yes'
 use_experimental_fxv2_oal 'yes'
 
 author 'zRxnx'
-description 'Animal stroking system'
-version '1.1.0'
+description 'Simple animal stroking system'
+version '1.2.0'
 
 shared_scripts {
     '@ox_lib/init.lua',

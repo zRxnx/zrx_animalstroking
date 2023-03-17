@@ -5,7 +5,7 @@ local continueCheck = true
 
 CreateThread(function()
     if curResName ~= 'zrx_animalstroking' then
-        resourceName = 'zrx_animalstroking (' .. curResName .. ')'
+        resourceName = ('zrx_animalstroking (%s)'):format(curResName)
     end
 end)
 

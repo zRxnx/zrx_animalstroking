@@ -2,7 +2,7 @@ local busy = false
 CreateThread(function()
     exports.ox_target:addModel(Config.Models, {
         {
-            name = GetCurrentResourceName() .. ':strokeAnimal',
+            name = 'zrx_animalstroking:strokeAnimal',
             event = 'zrx_animalstroking:client:start',
             icon = Config.Icon,
             label = Strings.stroking,
